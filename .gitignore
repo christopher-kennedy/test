@@ -14,6 +14,9 @@
 # Executables
 *.exe
 
+# BackupFiles
+*.bak
+
 # DUB
 .dub
 docs.json
